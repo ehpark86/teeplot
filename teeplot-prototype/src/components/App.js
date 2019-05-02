@@ -1,9 +1,9 @@
 import React from 'react';
-import Appbar from './Appbar';
+import Navbar from './Navbar';
 
 function App() {
   return (
-    <Appbar />
+    <Navbar />
   );
 }
 
